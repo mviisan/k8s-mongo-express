@@ -11,7 +11,7 @@ This K8s app connects a pod running mongo-db to a pod running mongo-express. An 
 1. [Z](#to-run-the-application)
 
 ## Tech Stack
-
+Kubernetes
 
 
 ## Diagram
